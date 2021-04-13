@@ -1,0 +1,4 @@
+ls
+dir
+mkdir abc
+test error
